@@ -1,2 +1,2 @@
-# CIVE202_Spring2026_TRANS-01-11_Project5_GitHub
-A GitHub repository of our final project in the class CIVE202.
+# CIVE202 Final Project
+The purpose of this project was _. The objective of this project was _.
